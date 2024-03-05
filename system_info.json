@@ -228,6 +228,6 @@
       "current_patch_level": "Red Hat Enterprise Linux release 8.9 (Ootpa)",
       "desired_patch_level": "RHEL 8.9",
       "patch_compliance": "0",
-      "minor_version_difference": "0"
+      "benminor_version_difference": "0"
     }
       ]
