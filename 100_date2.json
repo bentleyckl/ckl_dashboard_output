@@ -1,0 +1,260 @@
+[
+  {
+    "hostname": "server167",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server188",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server170",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server172",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server175",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "docker03",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server180",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server184",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server185",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server187",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server188",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server191",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server192",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server196",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server197",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server200",
+    "Windows": "2016",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-06-30"
+  },
+  {
+    "hostname": "server131",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "waylay02",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server222",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "docker02",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server158",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server159",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server161",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "wordpress01",
+    "Windows": "2019",
+    "patch_compliance": "0",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "ansnode3",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server170",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2022-12-19"
+  },
+  {
+    "hostname": "jenkins02",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server172",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2022-12-19"
+  },
+  {
+    "hostname": "server175",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2022-12-19"
+  },
+  {
+    "hostname": "server177",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2021-08-03"
+  },
+  {
+    "hostname": "docker03",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2022-12-19"
+  },
+  {
+    "hostname": "server179",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2022-12-19"
+  },
+  {
+    "hostname": "server180",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server181",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2021-08-03"
+  },
+  {
+    "hostname": "server182",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2021-08-03"
+  },
+  {
+    "hostname": "server184",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server185",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server187",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server188",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server191",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server192",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  },
+  {
+    "hostname": "server194",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2021-08-03"
+  },
+  {
+    "hostname": "server195",
+    "Windows": "2019",
+    "patch_compliance": "1",
+    "last_patch_date": "2024-03-05"
+  }
+]
