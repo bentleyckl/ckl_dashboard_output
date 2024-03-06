@@ -6,7 +6,7 @@
     "TimeStamp": "2024-03-06T06:01:36Z"
   },    {
     "hostname": "waylay02",
-    "RHEL": "8.7",
+    "RHEL": "8.0",
     "patch_compliance": "10",
     "TimeStamp": "2024-03-06T06:01:36Z"
   },    {
