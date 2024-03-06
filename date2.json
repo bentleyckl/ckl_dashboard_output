@@ -3,105 +3,105 @@
     "hostname": "server131",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "waylay02",
-    "RHEL": "8.0",
+    "RHEL": "8.7",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server222",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "docker02",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server158",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server159",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server161",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "wordpress01",
     "RHEL": "8.9",
     "patch_compliance": "0",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "ansnode3",
     "RHEL": "9.2",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "ansnode4",
     "RHEL": "9.2",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "jenkins04",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server166",
     "RHEL": "8.4",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server167",
     "RHEL": "8.9",
     "patch_compliance": "0",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server168",
     "RHEL": "8.4",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "affinpg",
     "RHEL": "9.2",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server188",
     "RHEL": "8.9",
     "patch_compliance": "0",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server154",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server170",
     "RHEL": "8.4",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "jenkins02",
     "RHEL": "8.8",
     "patch_compliance": "10",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server172",
     "RHEL": "8.9",
     "patch_compliance": "0",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   },    {
     "hostname": "server175",
     "RHEL": "8.9",
     "patch_compliance": "0",
-    "TimeStamp": "2024-03-06T06:01:36Z"
+    "TimeStamp": "2024-03-06T06:22:20Z"
   }  ]
