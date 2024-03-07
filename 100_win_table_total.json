@@ -3,7 +3,7 @@
     "hostname": "server1",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -11,7 +11,7 @@
     "hostname": "server2",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -19,7 +19,7 @@
     "hostname": "server3",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -27,7 +27,7 @@
     "hostname": "server4",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -35,7 +35,7 @@
     "hostname": "server5",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -43,7 +43,7 @@
     "hostname": "server6",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -51,7 +51,7 @@
     "hostname": "server7",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -59,7 +59,7 @@
     "hostname": "server8",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -67,7 +67,7 @@
     "hostname": "server9",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -75,7 +75,7 @@
     "hostname": "server10",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -83,7 +83,7 @@
     "hostname": "server11",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -91,7 +91,7 @@
     "hostname": "server12",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -99,7 +99,7 @@
     "hostname": "server13",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -107,7 +107,7 @@
     "hostname": "server14",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -115,7 +115,7 @@
     "hostname": "server15",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -123,7 +123,7 @@
     "hostname": "server16",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -131,7 +131,7 @@
     "hostname": "server17",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -139,7 +139,7 @@
     "hostname": "server18",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -147,7 +147,7 @@
     "hostname": "server19",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -155,7 +155,7 @@
     "hostname": "server20",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -163,7 +163,7 @@
     "hostname": "server21",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -171,7 +171,7 @@
     "hostname": "server22",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -179,7 +179,7 @@
     "hostname": "server23",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -187,7 +187,7 @@
     "hostname": "server24",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -195,7 +195,7 @@
     "hostname": "server25",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -203,7 +203,7 @@
     "hostname": "server26",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -211,7 +211,7 @@
     "hostname": "server27",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -219,7 +219,7 @@
     "hostname": "server28",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -227,7 +227,7 @@
     "hostname": "server29",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -235,7 +235,7 @@
     "hostname": "server30",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -243,7 +243,7 @@
     "hostname": "server31",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -251,7 +251,7 @@
     "hostname": "server32",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -259,7 +259,7 @@
     "hostname": "server33",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -267,7 +267,7 @@
     "hostname": "server34",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -275,7 +275,7 @@
     "hostname": "server35",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -283,7 +283,7 @@
     "hostname": "server36",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -291,7 +291,7 @@
     "hostname": "server37",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -299,7 +299,7 @@
     "hostname": "server38",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -307,7 +307,7 @@
     "hostname": "server39",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -315,7 +315,7 @@
     "hostname": "server40",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -323,7 +323,7 @@
     "hostname": "server41",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "0",
+    "patch_level": "0",
     "patch_compliance": "Yes",
     "last_patch_date": "2024-03-15"
   },
@@ -331,7 +331,7 @@
     "hostname": "server42",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -339,7 +339,7 @@
     "hostname": "server43",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -347,7 +347,7 @@
     "hostname": "server44",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -355,7 +355,7 @@
     "hostname": "server45",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -363,7 +363,7 @@
     "hostname": "server46",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -371,7 +371,7 @@
     "hostname": "server47",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -379,7 +379,7 @@
     "hostname": "server48",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -387,7 +387,7 @@
     "hostname": "server49",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -395,7 +395,7 @@
     "hostname": "server50",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -403,7 +403,7 @@
     "hostname": "server51",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -411,7 +411,7 @@
     "hostname": "server52",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -419,7 +419,7 @@
     "hostname": "server53",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -427,7 +427,7 @@
     "hostname": "server54",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -435,7 +435,7 @@
     "hostname": "server55",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -443,7 +443,7 @@
     "hostname": "server56",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -451,7 +451,7 @@
     "hostname": "server57",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -459,7 +459,7 @@
     "hostname": "server58",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -467,7 +467,7 @@
     "hostname": "server59",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -475,7 +475,7 @@
     "hostname": "server60",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -483,7 +483,7 @@
     "hostname": "server61",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -491,7 +491,7 @@
     "hostname": "server62",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -499,7 +499,7 @@
     "hostname": "server63",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -507,7 +507,7 @@
     "hostname": "server64",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -515,7 +515,7 @@
     "hostname": "server65",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -523,7 +523,7 @@
     "hostname": "server66",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -531,7 +531,7 @@
     "hostname": "server67",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -539,7 +539,7 @@
     "hostname": "server68",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -547,7 +547,7 @@
     "hostname": "server69",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -555,7 +555,7 @@
     "hostname": "server70",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -563,7 +563,7 @@
     "hostname": "server71",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -571,7 +571,7 @@
     "hostname": "server72",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -579,7 +579,7 @@
     "hostname": "server73",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -587,7 +587,7 @@
     "hostname": "server74",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -595,7 +595,7 @@
     "hostname": "server75",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -603,7 +603,7 @@
     "hostname": "server76",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -611,7 +611,7 @@
     "hostname": "server77",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -619,7 +619,7 @@
     "hostname": "server78",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -627,7 +627,7 @@
     "hostname": "server79",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -635,7 +635,7 @@
     "hostname": "server80",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -643,7 +643,7 @@
     "hostname": "server81",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -651,7 +651,7 @@
     "hostname": "server82",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -659,7 +659,7 @@
     "hostname": "server83",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -667,7 +667,7 @@
     "hostname": "server84",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -675,7 +675,7 @@
     "hostname": "server85",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -683,7 +683,7 @@
     "hostname": "server86",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -691,7 +691,7 @@
     "hostname": "server87",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -699,7 +699,7 @@
     "hostname": "server88",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -707,7 +707,7 @@
     "hostname": "server89",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -715,7 +715,7 @@
     "hostname": "server90",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -723,7 +723,7 @@
     "hostname": "server91",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -731,7 +731,7 @@
     "hostname": "server92",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -739,7 +739,7 @@
     "hostname": "server93",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -747,7 +747,7 @@
     "hostname": "server94",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -755,7 +755,7 @@
     "hostname": "server95",
     "os_version": "windows server 2016",
     "location": "RND",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -763,7 +763,7 @@
     "hostname": "server96",
     "os_version": "windows server 2016",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -771,7 +771,7 @@
     "hostname": "server97",
     "os_version": "windows server 2019",
     "location": "GCIT",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -779,7 +779,7 @@
     "hostname": "server98",
     "os_version": "windows server 2016",
     "location": "GCIT",
-    "current_patch_level_n": "1",
+    "patch_level": "1",
     "patch_compliance": "No",
     "last_patch_date": "2023-10-19"
   },
@@ -787,7 +787,7 @@
     "hostname": "server99",
     "os_version": "windows server 2019",
     "location": "RND",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   },
@@ -795,7 +795,7 @@
     "hostname": "server100",
     "os_version": "windows server 2019",
     "location": "PGMSB",
-    "current_patch_level_n": "2",
+    "patch_level": "2",
     "patch_compliance": "No",
     "last_patch_date": "2023-09-02"
   }
