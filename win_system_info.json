@@ -1,14 +1,14 @@
 [
       {
       "hostname": "WIN-GSB13LIAJ60",
-adsadsad     "ip_address": "10.0.16.126",
+      "ip_address": "10.0.16.148",
       "os_version": "Microsoft Windows Server 2019 Standard Evaluation",
       "last_patch_KB": "KB4512578"
     }
     ,      {
       "hostname": "WIN-GSB13LIAJ60",
-      "ip_address": "10.0.16.126",
-      "oasdsadsads_version": "Microsoft Windows Server 2019 Standard Evaluation",
+      "ip_address": "10.0.16.148",
+      "os_version": "Microsoft Windows Server 2019 Standard Evaluation",
       "last_patch_KB": "KB4512578"
     }
       ]
