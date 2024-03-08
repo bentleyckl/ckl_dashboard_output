@@ -3,12 +3,12 @@
       "hostname": "WIN-GSB13LIAJ60",
       "ip_address": "10.0.16.126",
       "os_version": "Microsoft Windows Server 2019 Standard Evaluation",
-      "last_patch_date": "Saturday, September 7, 2019 12:00:00 AM",
+      "last_patch_date": "2019-09-07 00:00:00",
       "last_patch_KB": "KB4512578"
     },      {
       "hostname": "WIN-GSB13LIAJ68",
       "ip_address": "10.0.16.148",
       "os_version": "Microsoft Windows Server 2019 Standard Evaluation",
-      "last_patch_date": "Saturday, September 7, 2019 12:00:00 AM",
+      "last_patch_date": "2019-09-07 00:00:00",
       "last_patch_KB": "KB4512578"
     }  ]
