@@ -1,0 +1,68 @@
+{
+  "datasource": "YourDatasourceName",
+  "type": "graph",
+  "title": "Sample Time Series Visualization",
+  "gridPos": {
+    "x": 0,
+    "y": 0,
+    "w": 12,
+    "h": 8
+  },
+  "id": 1,
+  "targets": [
+    {
+      "refId": "A",
+      "target": "metric_name",
+      "type": "timeseries",
+      "groupBy": [
+        {
+          "params": [
+            "auto"
+          ],
+          "type": "time"
+        },
+        {
+          "params": [
+            "none"
+          ],
+          "type": "fill"
+        }
+      ],
+      "rawQuery": true,
+      "rawSql": "SELECT\n  UNIX_TIMESTAMP(time_column) as time_sec,\n  value_column as value\nFROM\n  your_table\nWHERE\n  $__timeFilter(time_column)\nORDER BY\n  time_sec"
+    }
+  ],
+  "timeFrom": null,
+  "timeShift": null,
+  "tooltip": {
+    "shared": true,
+    "sort": 0,
+    "value_type": "individual"
+  },
+  "xaxis": {
+    "show": true
+  },
+  "yaxes": [
+    {
+      "format": "short",
+      "label": null,
+      "logBase": 1,
+      "max": null,
+      "min": null,
+      "show": true
+    },
+    {
+      "format": "short",
+      "label": null,
+      "logBase": 1,
+      "max": null,
+      "min": null,
+      "show": true
+    }
+  ],
+  "yaxis": {
+    "align": false,
+    "alignLevel": null
+  }
+}
+
