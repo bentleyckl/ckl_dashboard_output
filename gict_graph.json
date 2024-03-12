@@ -2,31 +2,31 @@
     {
     "date": "2023-09-01T06:36:02Z",
     "Compliance": 9,
-    "NotCompliance": 199
+    "NotCompliance": 198
     },
     {
     "date": "2023-09-21T06:36:02Z",
     "Compliance": 168,
-    "NotCompliance": 36
+    "NotCompliance": 35
     },
     {
     "date": "2023-10-24T06:36:02Z",
     "Compliance": 24,
-    "NotCompliance": 180
+    "NotCompliance": 179
     },
     {
     "date": "2023-11-12T06:36:02Z",
     "Compliance": 190,
-    "NotCompliance": 14
+    "NotCompliance": 13
     },
     {
     "date": "2024-01-15T06:36:02Z",
     "Compliance": 22,
-    "NotCompliance": 182
+    "NotCompliance": 181
     },
     {
     "date": "2024-03-02T06:36:02Z",
     "Compliance": 204,
-    "NotCompliance": 0
+    "NotCompliance": 1
     }
 ]
