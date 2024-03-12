@@ -1,37 +1,37 @@
 [
     {
-    "date": "2023-09-05T06:36:02Z",
+    "date": "2023-09-01",
     "Compliance": 1,
     "NotCompliance": 90
     },
     {
-    "date": "2023-10-21T06:36:02Z",
+    "date": "2023-10-01",
     "Compliance": 87,
     "NotCompliance": 4
     },
     {
-    "date": "2023-11-24T06:36:02Z",
+    "date": "2023-11-01",
     "Compliance": 23,
     "NotCompliance": 68
     },
     {
-    "date": "2023-12-12T06:36:02Z",
+    "date": "2023-12-01",
     "Compliance": 91,
     "NotCompliance": 0
     },
     {
-    "date": "2024-01-15T06:36:02Z",
+    "date": "2024-01-01",
     "Compliance": 31,
     "NotCompliance": 60
     },
     {
-    "date": "2024-02-02T06:36:02Z",
+    "date": "2024-02-01",
     "Compliance": 89,
     "NotCompliance": 2
     },
     {
-    "date": "2024-03-02T06:36:02Z",
-    "Compliance": 89,
-    "NotCompliance": 2
+    "date": "2024-03-01",
+    "Compliance": 13,
+    "NotCompliance": 78
     }
 ]
