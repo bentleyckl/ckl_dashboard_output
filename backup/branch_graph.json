@@ -1,0 +1,32 @@
+[
+    {
+    "date": "2023-09-05T06:36:02Z",
+    "Compliance": 1,
+    "NotCompliance": 90
+    },
+    {
+    "date": "2023-09-21T06:36:02Z",
+    "Compliance": 87,
+    "NotCompliance": 4
+    },
+    {
+    "date": "2023-10-24T06:36:02Z",
+    "Compliance": 23,
+    "NotCompliance": 68
+    },
+    {
+    "date": "2023-11-12T06:36:02Z",
+    "Compliance": 91,
+    "NotCompliance": 0
+    },
+    {
+    "date": "2024-01-15T06:36:02Z",
+    "Compliance": 31,
+    "NotCompliance": 60
+    },
+    {
+    "date": "2024-03-02T06:36:02Z",
+    "Compliance": 89,
+    "NotCompliance": 2
+    }
+]
