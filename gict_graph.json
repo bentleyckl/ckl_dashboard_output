@@ -1,32 +1,32 @@
 [
     {
     "date": "2023-09-01T06:36:02Z",
-    "Patch_Compliance": 9,
-    "Patch_Not_Compliance": 199
+    "Compliance": 9,
+    "NotCompliance": 199
     },
     {
     "date": "2023-09-21T06:36:02Z",
-    "Patch_Compliance": 168,
-    "Patch_Not_Compliance": 36
+    "Compliance": 168,
+    "NotCompliance": 36
     },
     {
     "date": "2023-10-24T06:36:02Z",
-    "Patch_Compliance": 24,
-    "Patch_Not_Compliance": 180
+    "Compliance": 24,
+    "NotCompliance": 180
     },
     {
     "date": "2023-11-12T06:36:02Z",
-    "Patch_Compliance": 190,
-    "Patch_Not_Compliance": 14
+    "Compliance": 190,
+    "NotCompliance": 14
     },
     {
     "date": "2024-01-15T06:36:02Z",
-    "Patch_Compliance": 22,
-    "Patch_Not_Compliance": 182
+    "Compliance": 22,
+    "NotCompliance": 182
     },
     {
     "date": "2024-03-02T06:36:02Z",
-    "Patch_Compliance": 204,
-    "Patch_Not_Compliance": 0
+    "Compliance": 204,
+    "NotCompliance": 0
     }
 ]
