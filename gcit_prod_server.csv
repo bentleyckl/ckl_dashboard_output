@@ -1,0 +1,238 @@
+GICT - PATCH AUTOMATION REPORT
+
+GCIT Production Patch Count:
+Total Server: 204
+Server Patched: 102
+
+GCIT Non-Prod Count:
+Total Server: 103
+Server Patched: 10
+
+Branch Patch Count:
+Total Server: 91
+Server Patched: 13
+
+
+hostname,patch_compliance,last_patch_date
+WindowServer01,Compliance,2023-09-01
+WindowServer02,Compliance,2023-10-14
+WindowServer03,Compliance,2023-12-08
+WindowServer04,Compliance,2024-01-16
+WindowServer05,Compliance,2024-03-08
+WindowServer06,Compliance,2023-09-01
+WindowServer07,Compliance,2023-10-14
+WindowServer08,Compliance,2023-12-08
+WindowServer09,Compliance,2024-01-16
+WindowServer10,Compliance,2024-03-08
+WindowServer11,Compliance,2023-09-01
+WindowServer12,Compliance,2023-10-14
+WindowServer13,Compliance,2023-12-08
+WindowServer14,Compliance,2024-01-16
+WindowServer15,Compliance,2024-03-08
+WindowServer16,Compliance,2023-09-01
+WindowServer17,Compliance,2023-10-14
+WindowServer18,Compliance,2023-12-08
+WindowServer19,Compliance,2024-01-16
+WindowServer20,Compliance,2024-03-08
+WindowServer21,Compliance,2023-09-01
+WindowServer22,Compliance,2023-10-14
+WindowServer23,Compliance,2023-12-08
+WindowServer24,Compliance,2024-01-16
+WindowServer25,Compliance,2024-03-08
+WindowServer26,Compliance,2023-09-01
+WindowServer27,Compliance,2023-10-14
+WindowServer28,Compliance,2023-12-08
+WindowServer29,Compliance,2024-01-16
+WindowServer30,Compliance,2024-03-08
+WindowServer31,Compliance,2023-09-01
+WindowServer32,Compliance,2023-10-14
+WindowServer33,Compliance,2023-12-08
+WindowServer34,Compliance,2024-01-16
+WindowServer35,Compliance,2024-03-08
+WindowServer36,Compliance,2023-09-01
+WindowServer37,Compliance,2023-10-14
+WindowServer38,Compliance,2023-12-08
+WindowServer39,Compliance,2024-01-16
+WindowServer40,Compliance,2024-03-08
+WindowServer41,Compliance,2023-09-01
+WindowServer42,Compliance,2023-10-14
+WindowServer43,Compliance,2023-12-08
+WindowServer44,Compliance,2024-01-16
+WindowServer45,Compliance,2024-03-08
+WindowServer46,Compliance,2023-09-01
+WindowServer47,Compliance,2023-10-14
+WindowServer48,Compliance,2023-12-08
+WindowServer49,Compliance,2024-01-16
+WindowServer50,Compliance,2024-03-08
+WindowServer51,Compliance,2023-09-01
+WindowServer52,Compliance,2023-10-14
+WindowServer53,Compliance,2023-12-08
+WindowServer54,Compliance,2024-01-16
+WindowServer55,Compliance,2024-03-08
+WindowServer56,Compliance,2023-09-01
+WindowServer57,Compliance,2023-10-14
+WindowServer58,Compliance,2023-12-08
+WindowServer59,Compliance,2024-01-16
+WindowServer60,Compliance,2024-03-08
+WindowServer61,Compliance,2023-09-01
+WindowServer62,Compliance,2023-10-14
+WindowServer63,Compliance,2023-12-08
+WindowServer64,Compliance,2024-01-16
+WindowServer65,Compliance,2024-03-08
+WindowServer66,Compliance,2023-09-01
+WindowServer67,Compliance,2023-10-14
+WindowServer68,Compliance,2023-12-08
+WindowServer69,Compliance,2024-01-16
+WindowServer70,Compliance,2024-03-08
+WindowServer71,Compliance,2023-09-01
+WindowServer72,Compliance,2023-10-14
+WindowServer73,Compliance,2023-12-08
+WindowServer74,Compliance,2024-01-16
+WindowServer75,Compliance,2024-03-08
+WindowServer76,Compliance,2023-09-01
+WindowServer77,Compliance,2023-10-14
+WindowServer78,Compliance,2023-12-08
+WindowServer79,Compliance,2024-01-16
+WindowServer80,Compliance,2024-03-08
+WindowServer81,Compliance,2023-09-01
+WindowServer82,Compliance,2023-10-14
+WindowServer83,Compliance,2023-12-08
+WindowServer84,Compliance,2024-01-16
+WindowServer85,Compliance,2024-03-08
+WindowServer86,Compliance,2023-09-01
+WindowServer87,Compliance,2023-10-14
+WindowServer88,Compliance,2023-12-08
+WindowServer89,Compliance,2024-01-16
+WindowServer90,Compliance,2024-03-08
+WindowServer91,Compliance,2023-09-01
+WindowServer92,Compliance,2023-10-14
+WindowServer93,Compliance,2023-12-08
+WindowServer94,Compliance,2024-01-16
+WindowServer95,Compliance,2024-03-08
+WindowServer96,Compliance,2023-09-01
+WindowServer97,Compliance,2023-10-14
+WindowServer98,Compliance,2023-12-08
+WindowServer99,Compliance,2024-01-16
+WindowServer100,Compliance,2024-03-08
+WindowServer101,NotCompliance,2023-09-01
+WindowServer102,NotCompliance,2023-10-14
+WindowServer103,NotCompliance,2023-12-08
+WindowServer104,NotCompliance,2024-01-16
+WindowServer105,NotCompliance,2024-03-08
+WindowServer106,NotCompliance,2023-09-01
+WindowServer107,NotCompliance,2023-10-14
+WindowServer108,NotCompliance,2023-12-08
+WindowServer109,NotCompliance,2024-01-16
+WindowServer110,NotCompliance,2024-03-08
+WindowServer111,NotCompliance,2023-09-01
+WindowServer112,NotCompliance,2023-10-14
+WindowServer113,NotCompliance,2023-12-08
+WindowServer114,NotCompliance,2024-01-16
+WindowServer115,NotCompliance,2024-03-08
+WindowServer116,NotCompliance,2023-09-01
+WindowServer117,NotCompliance,2023-10-14
+WindowServer118,NotCompliance,2023-12-08
+WindowServer119,NotCompliance,2024-01-16
+WindowServer120,NotCompliance,2024-03-08
+WindowServer121,NotCompliance,2023-09-01
+WindowServer122,NotCompliance,2023-10-14
+WindowServer123,NotCompliance,2023-12-08
+WindowServer124,NotCompliance,2024-01-16
+WindowServer125,NotCompliance,2024-03-08
+WindowServer126,NotCompliance,2023-09-01
+WindowServer127,NotCompliance,2023-10-14
+WindowServer128,NotCompliance,2023-12-08
+WindowServer129,NotCompliance,2024-01-16
+WindowServer130,NotCompliance,2024-03-08
+WindowServer131,NotCompliance,2023-09-01
+WindowServer132,NotCompliance,2023-10-14
+WindowServer133,NotCompliance,2023-12-08
+WindowServer134,NotCompliance,2024-01-16
+WindowServer135,NotCompliance,2024-03-08
+WindowServer136,NotCompliance,2023-09-01
+WindowServer137,NotCompliance,2023-10-14
+WindowServer138,NotCompliance,2023-12-08
+WindowServer139,NotCompliance,2024-01-16
+WindowServer140,NotCompliance,2024-03-08
+WindowServer141,NotCompliance,2023-09-01
+WindowServer142,NotCompliance,2023-10-14
+WindowServer143,NotCompliance,2023-12-08
+WindowServer144,NotCompliance,2024-01-16
+WindowServer145,NotCompliance,2024-03-08
+
+hostname,patch_compliance,last_patch_date
+Jalan Tun Razak,Compliance,2023-09-01
+Jalan Kampung Attap,NotCompliance,2023-10-14
+Jalan Tun Sambanthan,Compliance,2023-12-08
+Jalan Sultan Abdul Samad,NotCompliance,2024-01-16
+Jalan Tuanku Abdul Rahman,NotCompliance,2024-03-08
+Jalan Sultan Ismail,Compliance,2023-09-01
+Jalan Hang Lekiu,Compliance,2023-10-14
+Jalan Hang Kasturi,Compliance,2023-12-08
+Jalan Hang Jebat,Compliance,2024-01-16
+Jalan Hang Tuah,NotCompliance,2024-03-08
+Jalan Imbi,Compliance,2023-09-01
+Jalan Galloway,NotCompliance,2023-10-14
+Jalan Dang Wangi,Compliance,2023-12-08
+Jalan Ampang,Compliance,2024-01-16
+Jalan Masjid India,NotCompliance,2024-03-08
+Jalan Hang Lekir,Compliance,2023-09-01
+Jalan Hang Kasturi,NotCompliance,2023-10-14
+Jalan Hang Kasturi,Compliance,2023-12-08
+Jalan Hang Jebat,NotCompliance,2024-01-16
+Jalan Hang Tuah,NotCompliance,2024-03-08
+Jalan Tunku Abdul Rahman,Compliance,2023-09-01
+Jalan Hang Lekir,NotCompliance,2023-10-14
+Jalan Sultan Ismail,Compliance,2023-12-08
+Jalan Hang Jebat,NotCompliance,2024-01-16
+Jalan Tuanku Abdul Rahman,NotCompliance,2024-03-08
+Jalan Ampang,Compliance,2023-09-01
+Jalan Masjid India,NotCompliance,2023-10-14
+Jalan Sultan Ismail,Compliance,2023-12-08
+Jalan Tun Perak,NotCompliance,2024-01-16
+Jalan Tun Sambanthan,NotCompliance,2024-03-08
+Jalan Hang Lekir,Compliance,2023-09-01
+Jalan Hang Kasturi,Compliance,2023-10-14
+Jalan Hang Jebat,NotCompliance,2023-12-08
+Jalan Hang Tuah,NotCompliance,2024-01-16
+Jalan Tun Abdul Razak,NotCompliance,2024-03-08
+Jalan Bukit Bintang,Compliance,2023-09-01
+Jalan Sultan Ismail,Compliance,2023-10-14
+Jalan Imbi,Compliance,2023-12-08
+Jalan Ampang Hilir,Compliance,2024-01-16
+Jalan Sultan Abdul Samad,Compliance,2024-03-08
+Jalan Tun Razak,NotCompliance,2023-09-01
+Jalan Hang Tuah,NotCompliance,2023-10-14
+Jalan Chan Sow Lin,NotCompliance,2023-12-08
+Jalan Sultan Ahmad Shah,NotCompliance,2024-01-16
+Jalan Kepong,NotCompliance,2024-03-08
+Jalan Ampang,Compliance,2023-09-01
+Jalan Loke Yew,Compliance,2023-10-14
+Jalan Tun Perak,Compliance,2023-12-08
+Jalan Pudu,Compliance,2024-01-16
+Jalan Hang Jebat,Compliance,2024-03-08
+Jalan PJU 1A/1C,NotCompliance,2023-09-01
+Jalan Sri Hartamas,NotCompliance,2023-10-14
+Jalan Sultan Hishamuddin,NotCompliance,2023-12-08
+Jalan Tunku Abdul Halim,NotCompliance,2024-01-16
+Jalan PJU 1A/1,NotCompliance,2024-03-08
+Jalan TAR,Compliance,2023-09-01
+Jalan Sultan Yahya Petra,Compliance,2023-10-14
+Jalan Kastam,Compliance,2023-12-08
+Jalan Genting Klang,Compliance,2024-01-16
+Jalan Pahang,Compliance,2024-03-08
+Jalan Ipoh,NotCompliance,2023-09-01
+Jalan Gombak,NotCompliance,2023-10-14
+Jalan PJU 1A/1B,NotCompliance,2023-12-08
+Jalan Puchong,NotCompliance,2024-01-16
+Jalan Lembah Perdana,NotCompliance,2024-03-08
+Jalan Syed Putra,Compliance,2023-09-01
+Jalan Raja Chulan,Compliance,2023-10-14
+Jalan Perak,Compliance,2023-12-08
+Jalan Dutamas,Compliance,2024-01-16
+Jalan Duta,Compliance,2024-03-08
+Jalan Sultan Abdul Jalil,NotCompliance,2023-09-01
+Jalan Pantai,NotCompliance,2023-10-14
+Jalan Sultan Iskandar,NotCompliance,2023-12-08
+Jalan Klang Lama,NotCompliance,2024-01-16
+Jalan Pantai Baharu,NotCompliance,2024-03-08
