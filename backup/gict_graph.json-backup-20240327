@@ -1,0 +1,37 @@
+[
+    {
+    "date": "2023-09-01",
+    "Compliance": 9,
+    "NotCompliance": 195
+    },
+    {
+    "date": "2023-10-01",
+    "Compliance": 168,
+    "NotCompliance": 36
+    },
+    {
+    "date": "2023-11-01",
+    "Compliance": 24,
+    "NotCompliance": 180
+    },
+    {
+    "date": "2023-12-01",
+    "Compliance": 190,
+    "NotCompliance": 14
+    },
+    {
+    "date": "2024-01-01",
+    "Compliance": 22,
+    "NotCompliance": 182
+    },
+    {
+    "date": "2024-02-01",
+    "Compliance": 202,
+    "NotCompliance": 2
+    },
+    {
+    "date": "2024-03-01",
+    "Compliance": 22,
+    "NotCompliance": 180
+    }
+]
