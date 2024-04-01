@@ -6,7 +6,8 @@ Server Patched: 102
 
 GCIT Non-Prod Count:
 Total Server: 103
+Server Patched: 10
 
 Branch Patch Count:
 Total Server: 91
-
+Server Patched: 13
