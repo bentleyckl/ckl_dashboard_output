@@ -891,12 +891,12 @@
   },
   {
     "hostname": "WindowServer1194",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "WindowServer1205",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "hostname": "WindowServer1238",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-12-08"
   },
   {
@@ -926,12 +926,12 @@
   },
   {
     "hostname": "WindowServer1261",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "WindowServer1272",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-10-14"
   },
   {
@@ -956,7 +956,7 @@
   },
   {
     "hostname": "WindowServer1327",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-10-14"
   },
   {
@@ -971,7 +971,7 @@
   },
   {
     "hostname": "WindowServer1350",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "hostname": "WindowServer1372",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-10-14"
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "hostname": "WindowServer1394",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-01-16"
   },
   {
@@ -1001,22 +1001,22 @@
   },
   {
     "hostname": "WindowServer1416",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "WindowServer1427",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-10-14"
   },
   {
     "hostname": "WindowServer1438",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "WindowServer1450",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   }
 ]
