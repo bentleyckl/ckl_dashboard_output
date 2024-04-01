@@ -1015,11 +1015,6 @@
     "last_patch_date": "2023-12-08"
   },
   {
-    "hostname": "WindowServer1449",
-    "patch_compliance": "NotCompliance",
-    "last_patch_date": "2024-01-16"
-  },
-  {
     "hostname": "WindowServer1450",
     "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
