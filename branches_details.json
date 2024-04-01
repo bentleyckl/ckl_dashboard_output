@@ -1,7 +1,7 @@
 [
   {
     "hostname": "Jalan Tun Razak",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "hostname": "Jalan Hang Kasturi",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Hang Jebat",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
@@ -56,22 +56,22 @@
   },
   {
     "hostname": "Jalan Dang Wangi",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Ampang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Masjid India",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   },
   {
     "hostname": "Jalan Hang Lekir",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "hostname": "Jalan Hang Kasturi",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "hostname": "Jalan Tunku Abdul Rahman",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "hostname": "Jalan Sultan Ismail",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "hostname": "Jalan Tuanku Abdul Rahman",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   },
   {
     "hostname": "Jalan Ampang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -131,7 +131,7 @@
   },
   {
     "hostname": "Jalan Sultan Ismail",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
@@ -146,12 +146,12 @@
   },
   {
     "hostname": "Jalan Hang Lekir",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "Jalan Hang Kasturi",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-10-14"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "hostname": "Jalan Hang Tuah",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-01-16"
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "hostname": "Jalan Bukit Bintang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -186,12 +186,12 @@
   },
   {
     "hostname": "Jalan Ampang Hilir",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Sultan Abdul Samad",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "hostname": "Jalan Hang Tuah",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2023-10-14"
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "hostname": "Jalan Kepong",
-    "patch_compliance": "NotCompliance",
+    "patch_compliance": "Compliance",
     "last_patch_date": "2024-03-08"
   },
   {
     "hostname": "Jalan Ampang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
@@ -231,7 +231,7 @@
   },
   {
     "hostname": "Jalan Tun Perak",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "hostname": "Jalan Hang Jebat",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -271,27 +271,27 @@
   },
   {
     "hostname": "Jalan TAR",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "Jalan Sultan Yahya Petra",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-10-14"
   },
   {
     "hostname": "Jalan Kastam",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Genting Klang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Pahang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -321,27 +321,27 @@
   },
   {
     "hostname": "Jalan Syed Putra",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "Jalan Raja Chulan",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-10-14"
   },
   {
     "hostname": "Jalan Perak",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Dutamas",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Duta",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -366,17 +366,17 @@
   },
   {
     "hostname": "Jalan Kastam",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Genting Klang",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Sarawak",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
@@ -406,27 +406,27 @@
   },
   {
     "hostname": "Jalan Syed Ali Rajah",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-09-01"
   },
   {
     "hostname": "Jalan Raja Besar",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-10-14"
   },
   {
     "hostname": "Jalan Kedah",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2023-12-08"
   },
   {
     "hostname": "Jalan Publikamas",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-01-16"
   },
   {
     "hostname": "Jalan Dato Azrul",
-    "patch_compliance": "Compliance",
+    "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   },
   {
