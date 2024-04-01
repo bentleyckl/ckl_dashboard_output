@@ -2,6 +2,7 @@ GICT - PATCH AUTOMATION REPORT
 
 GCIT Production Patch Count:
 Total Server: 204
+Server Patched: 102
 
 GCIT Non-Prod Count:
 Total Server: 103
