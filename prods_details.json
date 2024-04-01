@@ -723,5 +723,305 @@
     "hostname": "WindowServer145",
     "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
+  },
+{
+    "hostname": "WindowServer861",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer872",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer883",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer894",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer905",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer916",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer927",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer938",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer949",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer950",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer961",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer972",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer983",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer994",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1005",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1016",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1027",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1038",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1049",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1050",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1061",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1072",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1083",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1094",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1105",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1116",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1127",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1138",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1149",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1150",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1161",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1172",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1183",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1194",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1205",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1216",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1227",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1238",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1249",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1250",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1261",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1272",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1283",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1294",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1305",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1316",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1327",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1338",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1349",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1350",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1361",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1372",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1383",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1394",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1405",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "WindowServer1416",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "WindowServer1427",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "WindowServer1438",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "WindowServer1449",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "WindowServer1450",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
   }
 ]
