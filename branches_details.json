@@ -370,9 +370,93 @@
     "last_patch_date": "2024-01-16"
   },
   {
-    "hostname": "Jalan Pantai Baharu",
+    "hostname": "Jalan Kastam",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "Jalan Genting Klang",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "Jalan Sarawak",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "Jalan George Town",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "Jalan Longkang",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "Jalan PJU 15",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "Jalan Wong Ah Jek",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "Jalan Lembah Perlis",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "Jalan Syed Ali Rajah",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "Jalan Raja Besar",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "Jalan Kedah",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "Jalan Publikamas",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "Jalan Dato Azrul",
+    "patch_compliance": "Compliance",
+    "last_patch_date": "2024-03-08"
+  },
+  {
+    "hostname": "Jalan TMJ",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-09-01"
+  },
+  {
+    "hostname": "Jalan Udara",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-10-14"
+  },
+  {
+    "hostname": "Jalan Ram Kapal Singh",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2023-12-08"
+  },
+  {
+    "hostname": "Jalan Klang Utara Kiri",
+    "patch_compliance": "NotCompliance",
+    "last_patch_date": "2024-01-16"
+  },
+  {
+    "hostname": "Jalan Pantai Udara",
     "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
   }
-
 ]
