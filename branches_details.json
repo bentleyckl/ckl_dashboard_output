@@ -15,11 +15,6 @@
     "last_patch_date": "2023-12-08"
   },
   {
-    "hostname": "Jalan Sultan Abdul Samad",
-    "patch_compliance": "NotCompliance",
-    "last_patch_date": "2024-01-16"
-  },
-  {
     "hostname": "Jalan Tuanku Abdul Rahman",
     "patch_compliance": "NotCompliance",
     "last_patch_date": "2024-03-08"
