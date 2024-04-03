@@ -1,4 +1,4 @@
 Hostname,IP Address,Compliance,Last Patched Date
 WS2022POC,192.168.0.186,Non-Compliant,03-03-2022
-WS2016POC,192.168.0.184,Non-Compliant,04-02-2024
+WS2016POC,192.168.0.184,Compliant,04-03-2024
 WS2019POC,192.168.0.185,Non-Compliant,03-12-2019
