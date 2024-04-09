@@ -1,3 +1,17 @@
+GICT - PATCH AUTOMATION REPORT
+
+GCIT Production Patch Count:
+Total Server: 204
+Server Patched: 102
+
+GCIT Non-Prod Count:
+Total Server: 103
+Server Patched: 10
+
+Branch Patch Count:
+Total Server: 91
+Server Patched: 13
+
 hostname,patch_compliance,last_patch_date
 WindowServer01,Compliance,2023-09-01
 WindowServer02,Compliance,2023-10-14
@@ -203,3 +217,96 @@ WindowServer1416,Compliance,2023-09-01
 WindowServer1427,Compliance,2023-10-14
 WindowServer1438,Compliance,2023-12-08
 WindowServer1450,Compliance,2024-03-08
+
+hostname,patch_compliance,last_patch_date
+Jalan Tun Razak,NotCompliance,2023-09-01
+Jalan Kampung Attap,NotCompliance,2023-10-14
+Jalan Tun Sambanthan,Compliance,2023-12-08
+Jalan Tuanku Abdul Rahman,NotCompliance,2024-03-08
+Jalan Sultan Ismail,Compliance,2023-09-01
+Jalan Hang Lekiu,Compliance,2023-10-14
+Jalan Hang Kasturi,NotCompliance,2023-12-08
+Jalan Hang Jebat,NotCompliance,2024-01-16
+Jalan Hang Tuah,NotCompliance,2024-03-08
+Jalan Imbi,Compliance,2023-09-01
+Jalan Galloway,NotCompliance,2023-10-14
+Jalan Dang Wangi,NotCompliance,2023-12-08
+Jalan Ampang,NotCompliance,2024-01-16
+Jalan Masjid India,Compliance,2024-03-08
+Jalan Hang Lekir,NotCompliance,2023-09-01
+Jalan Hang Kasturi,NotCompliance,2023-10-14
+Jalan Hang Kasturi,NotCompliance,2023-12-08
+Jalan Hang Jebat,NotCompliance,2024-01-16
+Jalan Hang Tuah,NotCompliance,2024-03-08
+Jalan Tunku Abdul Rahman,NotCompliance,2023-09-01
+Jalan Hang Lekir,NotCompliance,2023-10-14
+Jalan Sultan Ismail,NotCompliance,2023-12-08
+Jalan Hang Jebat,NotCompliance,2024-01-16
+Jalan Tuanku Abdul Rahman,Compliance,2024-03-08
+Jalan Ampang,NotCompliance,2023-09-01
+Jalan Masjid India,NotCompliance,2023-10-14
+Jalan Sultan Ismail,NotCompliance,2023-12-08
+Jalan Tun Perak,NotCompliance,2024-01-16
+Jalan Tun Sambanthan,NotCompliance,2024-03-08
+Jalan Hang Lekir,NotCompliance,2023-09-01
+Jalan Hang Kasturi,NotCompliance,2023-10-14
+Jalan Hang Jebat,NotCompliance,2023-12-08
+Jalan Hang Tuah,Compliance,2024-01-16
+Jalan Tun Abdul Razak,NotCompliance,2024-03-08
+Jalan Bukit Bintang,NotCompliance,2023-09-01
+Jalan Sultan Ismail,Compliance,2023-10-14
+Jalan Imbi,Compliance,2023-12-08
+Jalan Ampang Hilir,NotCompliance,2024-01-16
+Jalan Sultan Abdul Samad,NotCompliance,2024-03-08
+Jalan Tun Razak,NotCompliance,2023-09-01
+Jalan Hang Tuah,Compliance,2023-10-14
+Jalan Chan Sow Lin,NotCompliance,2023-12-08
+Jalan Sultan Ahmad Shah,NotCompliance,2024-01-16
+Jalan Kepong,Compliance,2024-03-08
+Jalan Ampang,NotCompliance,2023-09-01
+Jalan Loke Yew,Compliance,2023-10-14
+Jalan Tun Perak,NotCompliance,2023-12-08
+Jalan Pudu,Compliance,2024-01-16
+Jalan Hang Jebat,NotCompliance,2024-03-08
+Jalan PJU 1A/1C,NotCompliance,2023-09-01
+Jalan Sri Hartamas,NotCompliance,2023-10-14
+Jalan Sultan Hishamuddin,NotCompliance,2023-12-08
+Jalan Tunku Abdul Halim,NotCompliance,2024-01-16
+Jalan PJU 1A/1,NotCompliance,2024-03-08
+Jalan TAR,NotCompliance,2023-09-01
+Jalan Sultan Yahya Petra,NotCompliance,2023-10-14
+Jalan Kastam,NotCompliance,2023-12-08
+Jalan Genting Klang,NotCompliance,2024-01-16
+Jalan Pahang,NotCompliance,2024-03-08
+Jalan Ipoh,NotCompliance,2023-09-01
+Jalan Gombak,NotCompliance,2023-10-14
+Jalan PJU 1A/1B,NotCompliance,2023-12-08
+Jalan Puchong,NotCompliance,2024-01-16
+Jalan Lembah Perdana,NotCompliance,2024-03-08
+Jalan Syed Putra,NotCompliance,2023-09-01
+Jalan Raja Chulan,NotCompliance,2023-10-14
+Jalan Perak,NotCompliance,2023-12-08
+Jalan Dutamas,NotCompliance,2024-01-16
+Jalan Duta,NotCompliance,2024-03-08
+Jalan Sultan Abdul Jalil,NotCompliance,2023-09-01
+Jalan Pantai,NotCompliance,2023-10-14
+Jalan Sultan Iskandar,NotCompliance,2023-12-08
+Jalan Klang Lama,NotCompliance,2024-01-16
+Jalan Kastam,NotCompliance,2023-12-08
+Jalan Genting Klang,NotCompliance,2024-01-16
+Jalan Sarawak,NotCompliance,2024-03-08
+Jalan George Town,NotCompliance,2023-09-01
+Jalan Longkang,NotCompliance,2023-10-14
+Jalan PJU 15,NotCompliance,2023-12-08
+Jalan Wong Ah Jek,NotCompliance,2024-01-16
+Jalan Lembah Perlis,NotCompliance,2024-03-08
+Jalan Syed Ali Rajah,NotCompliance,2023-09-01
+Jalan Raja Besar,NotCompliance,2023-10-14
+Jalan Kedah,NotCompliance,2023-12-08
+Jalan Publikamas,NotCompliance,2024-01-16
+Jalan Dato Azrul,NotCompliance,2024-03-08
+Jalan TMJ,NotCompliance,2023-09-01
+Jalan Udara,NotCompliance,2023-10-14
+Jalan Ram Kapal Singh,NotCompliance,2023-12-08
+Jalan Klang Utara Kiri,NotCompliance,2024-01-16
+Jalan Pantai Udara,NotCompliance,2024-03-08
